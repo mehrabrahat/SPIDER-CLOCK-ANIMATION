@@ -4,7 +4,8 @@ Creating a Spider Clock Animation using HTML, CSS, and JavaScript has been a fun
 
 **📸 Live Preview**
 
-![Spider Clock Preview](SpiderClockAnimation/spider-preview.png)
+![Spider Clock Preview](./spider-preview.png)
+
 
 
 **🛠️ Technologies Used**
@@ -14,6 +15,8 @@ HTML5 – structure
 CSS3 – styling & animation
 
 JavaScript (Vanilla) – time logic & DOM manipulation
+
+
 
 
 **✨ Features**
@@ -29,14 +32,23 @@ No external libraries
 Web-inspired circular layout
 
 
+
+
 **📂 Project Structure**
 
 spider-clock-animation/
+
 │── index.html
+
 │── style.css
+
 │── script.js
-│── spider-preview.png   ← (use any image name you want)
+
+│── spider-preview.png  ← (use any image name you want)
+
 │── README.md
+
+
 
 
 **🧩 Future Enhancements**
