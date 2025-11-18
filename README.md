@@ -3,7 +3,7 @@ Creating a Spider Clock Animation using HTML, CSS, and JavaScript has been a fun
 
 **📸 Live Preview**
 
-![Spider Clock Preview](assets/spider-preview.png)
+![Spider Clock Preview](SpiderClockAnimation/spider-preview.png)
 
 
 **🛠️ Technologies Used**
