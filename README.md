@@ -1,4 +1,5 @@
 **🕷️ SPIDER-CLOCK-ANIMATION**
+
 Creating a Spider Clock Animation using HTML, CSS, and JavaScript has been a fun and imaginative project. By blending creative design with real-time functionality, we’ve built a clock that not only tells time but also captivates attention with its spider-inspired motion ⏰✨
 
 **📸 Live Preview**
@@ -14,6 +15,7 @@ CSS3 – styling & animation
 
 JavaScript (Vanilla) – time logic & DOM manipulation
 
+
 **✨ Features**
 
 Real-time clock functionality
@@ -25,6 +27,7 @@ Responsive UI
 No external libraries
 
 Web-inspired circular layout
+
 
 **📂 Project Structure**
 
